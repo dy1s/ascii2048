@@ -8,7 +8,7 @@ This clone of 2048 was made mainly as an exercise in classes and
 memory management.
 
 It has so far only been compiled and run on unix-based systems
-using clang++ and gcc.
+using clang++ and g++.
 
 To compile use "clang++ main.cpp game.cpp grid.cpp"
 To run- "./a.out"
