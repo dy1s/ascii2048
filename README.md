@@ -14,6 +14,5 @@ To compile use "clang++ main.cpp game.cpp grid.cpp"
 To run- "./a.out"
 
 
-Initial implementation included management and sorting of high scores
-to comply with a homework assignment spec; features have been commented
-out as of 5/7/17. 
+File I/O for high score management is implemented, but commented out
+to avoid unnecessary complexity unless the features are desired.  
