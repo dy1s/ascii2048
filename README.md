@@ -1,7 +1,7 @@
 # ascii2048
 terminal based C++ clone of 2048 game
 
-Sick of intuitive javascript apps and touchscreen interfaces?
+Sick of intuitive javascript web-apps and newfangled touchscreen interfaces?
 Want to get maximum performance out of your simple arithmetical games?
 
 This clone of 2048 was made mainly as an exercise in classes and
@@ -10,9 +10,7 @@ memory management.
 It has so far only been compiled and run on unix-based systems
 using clang++ and g++.
 
-To compile use "clang++ main.cpp game.cpp grid.cpp"
-To run- "./a.out"
+The compile script uses clang++, and should produce an executable named "2048"
 
 
-File I/O for high score management is implemented, but commented out
-to avoid unnecessary complexity unless the features are desired.  
+
