@@ -1,9 +1,6 @@
 /*
 * Terminal-based clone of popular app  "2048"
 * Dylan Hudson, May 2017
-* Originally designed as a homework assignment for
-* Professor Laney Strange's Comp 11; modified for simplicity
-* and stability.
 * Gameplay Driver
 *
 * Although the board is preset to 4 x 4 for the classic
