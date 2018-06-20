@@ -1,7 +1,6 @@
 /*  Dylan Hudson, May 2017
-* Originally designed as a homework assignment for
-* Professor Laney Strange's Comp 11; modified for simplicity
-* and stability.
+*
+* 
 * Header File for class GAME
 */
 
