@@ -1,12 +1,8 @@
 /* 2048  - class Game Implementation
  * Dylan Hudson, May 2017
- * Originally designed as a homework assignment for
- * Professor Laney Strange's Comp 11; modified for simplicity
- * and stability.
- * 
- * Class Game provides attributes for the metadata of the game
- * being played, and handles operations selected by the user
- * during play.
+ *
+ * class Game provides methods for interacting with the player and modifying the 
+ * the game data during play. 
  *
  */
 
