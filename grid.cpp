@@ -1,8 +1,5 @@
 /*
 * Dylan Hudson, May 2017
-* Originally designed as a homework assignment for
-* Professor Laney Strange's Comp 11; modified for simplicity
-* and stability.
 * Implementation for class Grid - a dynamic 2D array data
 * structure. Getters/setters, and functions specialized for 2048
 * game play.
